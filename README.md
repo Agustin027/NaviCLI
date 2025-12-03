@@ -1,11 +1,18 @@
 # 🎌 Navi-CLI: Tu Anime en Terminal
-
+![Python](https://img.shields.io/badge/python-3.8+-b.svg)
+![Terminal](https://img.shields.io/badge/Interface-Terminal-purple)
+---
 **Navi-CLI** es una herramienta de línea de comandos escrita en Python que te permite buscar, explorar y reproducir anime directamente desde la terminal, sin anuncios, sin abrir el navegador y con una interfaz clara gracias a **Rich**.
 
 Utiliza **JKanime** como fuente de contenido, **Cloudscraper** para saltar protecciones de Cloudflare y **MPV** como reproductor.
 
-![Python](https://img.shields.io/badge/python-3.8+-b.svg)
-![Terminal](https://img.shields.io/badge/Interface-Terminal-purple)
+
+
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/e4d83102-7b9e-4e2b-a20e-8dc338f3fd99
+
+
 ---
 ## ✨ Características
 
