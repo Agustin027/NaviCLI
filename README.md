@@ -32,7 +32,7 @@ Utiliza **JKanime** como fuente de contenido, **Cloudscraper** para saltar prote
 ### 1. Clonar el repositorio
 
 ```bash
-git clone 
+git clone https://github.com/Agustin027/NaviCLI
 cd naviCLI
 ```
 
