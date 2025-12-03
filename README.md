@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/e4d83102-7b9e-4e2b-a20e-8dc338f3fd99
 2. **Reproductor MPV** (motor de reproducción):
    * *Linux:* `sudo apt install mpv` (Debian/Ubuntu) o `sudo pacman -S mpv` (Arch)
    * *macOS:* `brew install mpv`
-   * *Windows:* Descargar desde [mpv.io](https://mpv.io/)
+   * *Windows:* Descargar desde [mpv](https://sourceforge.net/projects/mpv-player-windows/)
 
 ---
 ## 🚀 Instalación
