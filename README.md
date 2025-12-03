@@ -30,8 +30,6 @@ https://github.com/user-attachments/assets/e4d83102-7b9e-4e2b-a20e-8dc338f3fd99
 1. **Python 3.8+** instalado
 2. **Reproductor MPV** (motor de reproducción):
    * *Linux:* `sudo apt install mpv` (Debian/Ubuntu) o `sudo pacman -S mpv` (Arch)
-   * *macOS:* `brew install mpv`
-   * *Windows:* Descargar desde [mpv](https://sourceforge.net/projects/mpv-player-windows/)
 
 ---
 ## 🚀 Instalación
@@ -46,17 +44,13 @@ cd naviCLI
 
 ### 2. Crear entorno virtual
 
-#### Linux / macOS
+#### Linux
 ```
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-#### Windows
-```
-python -m venv venv
-venv\Scripts\activate
-```
+
 
 ### 3. Instalar dependencias
 
@@ -72,16 +66,10 @@ pip install -r requirements.txt
 
 ### Paso 1: Activar entorno virtual
 
-#### Linux / macOS
+#### Linux
 ```bash
 cd naviCLI
 source venv/bin/activate
-```
-
-#### Windows
-```bash
-cd naviCLI
-venv\Scripts\activate
 ```
 
 Verás `(venv)` al inicio de tu terminal cuando esté activado ✅
